@@ -1,5 +1,8 @@
 function setFontFamily() {
     document.body.style.fontFamily = "opendyslexic";
+    document.querySelectorAll("*").forEach(elem =>
+        elem.style.fontFamily = "opendyslexic"
+    );
 }
 
 
