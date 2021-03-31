@@ -1,0 +1,11 @@
+{
+    "name": "Chrome Font Changer",
+    "action": {},
+    "description": "Change the font of sites that you are visiting.",
+    "version": "0.1",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["activeTab", "scripting"]
+}
