@@ -1,7 +1,7 @@
 {
-    "name": "Chrome Font Changer",
+    "name": "Change To OpenDyslexic Font",
     "action": {},
-    "description": "Change the font of sites that you are visiting.",
+    "description": "Changes the font of the site you are visiting to OpenDyslexic.",
     "version": "0.1",
     "manifest_version": 3,
     "background": {
